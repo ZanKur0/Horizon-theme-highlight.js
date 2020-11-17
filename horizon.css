@@ -1,0 +1,68 @@
+/*
+    Horizon Theme For Highlight.js by 
+        ( Credits to https://github.com/jolaleye | Website: https://horizontheme.netlify.app/ )
+    Adaptation By:
+    - Zankuro
+    - Discord: Zankuro#1969
+    - Github: https://github.com/ZanKur0
+*/ 
+.hljs-built_in,
+.hljs-selector-tag,
+.hljs-section,
+.hljs-link {
+  color: #8931B9;
+}
+
+.hljs-keyword {
+  color: #8931B9;
+}
+
+.hljs,
+.hljs-subst {
+  color: #1A1C23;
+}
+
+.hljs-title {
+  color: #1D8991;
+}
+
+.hljs-string,
+.hljs-meta,
+.hljs-name,
+.hljs-type,
+.hljs-attr,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition,
+.hljs-variable,
+.hljs-template-tag,
+.hljs-template-variable {
+  color: #DA103F;
+}
+
+.hljs-comment,
+.hljs-quote,
+.hljs-deletion {
+  color: #1a1c23;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-literal,
+.hljs-title,
+.hljs-section,
+.hljs-doctag,
+.hljs-type,
+.hljs-name,
+.hljs-strong {
+  font-weight: bold; /* Avalible options: none | italic | bold */
+}
+
+.hljs-literal,
+.hljs-number {
+  color: #DA103F;
+}
+
+.hljs-emphasis {
+  font-style: bold; /* Avalible options: none | italic | bold */
+}
